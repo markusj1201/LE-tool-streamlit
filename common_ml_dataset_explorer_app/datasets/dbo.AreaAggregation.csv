@@ -1,0 +1,900 @@
+AggregateName,WellName,CorpID,Update_Date,Update_User
+Angie,McSwain A 1 H,13042505-000,2019-09-18 08:13:12.000,Travis Comer
+Angie,McSwain B 1 H,13176292-000,2019-09-18 08:13:13.000,Travis Comer
+Angie,Red River A 1 H,13285248-000,2019-09-18 08:13:00.000,Travis Comer
+Angie,Red River B 1 H,13330875-000,2019-09-18 08:13:04.000,Travis Comer
+Angie,Rusk 593 A 1 H,13471896-000,2019-09-18 08:13:15.000,Travis Comer
+Angie,Rusk 593 B 1 H,13656946-000,2019-09-18 08:13:51.000,Travis Comer
+Blocker,Dorsett 6H,10409437-000,2019-09-18 08:31:15.000,Travis Comer
+Blocker,Young B 1,11992732-001,2019-09-18 08:31:20.000,Travis Comer
+Blocker,Kathleen Resch 1,11992738-000,2019-09-18 08:31:16.000,Travis Comer
+Blocker,Brewster 1,11992758-000,2019-09-18 08:31:14.000,Travis Comer
+Blocker,Brune Burnett B 1,11992781-000,2019-09-18 08:31:15.000,Travis Comer
+Blocker,Mary Roden 1,11992792-000,2019-09-18 08:31:16.000,Travis Comer
+Blocker,T W George B 1,11992794-000,2019-09-18 08:31:18.000,Travis Comer
+Blocker,Knackstedt 1,11992808-000,2019-09-18 08:31:16.000,Travis Comer
+Blocker,Becker 1,11992813-000,2019-09-18 08:31:14.000,Travis Comer
+Blocker,Thompson 1,11992844-000,2019-09-18 08:31:18.000,Travis Comer
+Blocker,Patterson Herrin 1,11992845-000,2019-09-18 08:31:17.000,Travis Comer
+Blocker,Bath A 1,11992864-000,2019-09-18 08:31:14.000,Travis Comer
+Blocker,Katherine Brown 1,11992865-000,2019-09-18 08:31:16.000,Travis Comer
+Blocker,Bath B 1,11992872-000,2019-09-18 08:31:14.000,Travis Comer
+Blocker,Maude Brown 1,11992878-000,2019-09-18 08:31:17.000,Travis Comer
+Blocker,Runnels 1,11992879-000,2019-09-18 08:31:18.000,Travis Comer
+Blocker,Washington 1,11992884-000,2019-09-18 08:31:19.000,Travis Comer
+Blocker,Roscoe 1,11992885-000,2019-09-18 08:31:18.000,Travis Comer
+Blocker,Rosborough 1,11992903-000,2019-09-18 08:31:18.000,Travis Comer
+Blocker,Ware A 1,11992912-000,2019-09-18 08:31:19.000,Travis Comer
+Blocker,Amis 1,11992928-000,2019-09-18 08:31:14.000,Travis Comer
+Blocker,Justice 1,11992937-000,2019-09-18 08:31:16.000,Travis Comer
+Blocker,Coats 1,11992940-000,2019-09-18 08:31:15.000,Travis Comer
+Blocker,Greer 1,11992944-000,2019-09-18 08:31:15.000,Travis Comer
+Blocker,Allen 1,11992949-000,2019-09-18 08:31:13.000,Travis Comer
+Blocker,Nancy Brewster 1,11992950-002,2019-09-18 08:31:17.000,Travis Comer
+Blocker,Dorsett 1,11992952-000,2019-09-18 08:31:15.000,Travis Comer
+Blocker,Chauvin Landry 1,11992962-000,2019-09-18 08:31:15.000,Travis Comer
+Blocker,Dudeck Heirs 1,11992986-000,2019-09-18 08:31:15.000,Travis Comer
+Blocker,Wyatt 1,11993012-000,2019-09-18 08:31:19.000,Travis Comer
+Blocker,Thompson B 1,11993025-000,2019-09-18 08:31:19.000,Travis Comer
+Blocker,Allen 2,11993181-003,2019-09-18 08:31:13.000,Travis Comer
+Blocker,Maude Brown 2,11993762-000,2019-09-18 08:31:17.000,Travis Comer
+Blocker,Vann 2,11993764-000,2019-09-18 08:31:19.000,Travis Comer
+Blocker,Mary Roden 2,11993778-000,2019-09-18 08:31:16.000,Travis Comer
+Blocker,Thompson B 2,11993779-000,2019-09-18 08:31:19.000,Travis Comer
+Blocker,T W George B 2,11993781-002,2019-09-18 08:31:18.000,Travis Comer
+Blocker,Bath A 2,11993782-000,2019-09-18 08:31:14.000,Travis Comer
+Blocker,Bath B 2,11993783-000,2019-09-18 08:31:14.000,Travis Comer
+Blocker,Runnels 2,11993786-000,2019-09-18 08:31:18.000,Travis Comer
+Blocker,Nancy Brewster 2,11993788-000,2019-09-18 08:31:17.000,Travis Comer
+Blocker,Brewster 3,11993792-000,2019-09-18 08:31:14.000,Travis Comer
+Blocker,Newton Dorsett 1,11993792-004,2019-09-18 08:31:17.000,Travis Comer
+Blocker,Greer 2,11993798-000,2019-09-18 08:31:15.000,Travis Comer
+Blocker,Patterson Herrin 2,11993801-000,2019-09-18 08:31:17.000,Travis Comer
+Blocker,Dorsett 2,11993803-000,2019-09-18 08:31:15.000,Travis Comer
+Blocker,Roscoe 2,11993808-000,2019-09-18 08:31:18.000,Travis Comer
+Blocker,Kathleen Resch 2,11993811-000,2019-09-18 08:31:16.000,Travis Comer
+Blocker,Knackstedt 2,11993815-000,2019-09-18 08:31:16.000,Travis Comer
+Blocker,Knackstedt 3,11993818-000,2019-09-18 08:31:16.000,Travis Comer
+Blocker,Thompson 2,11993819-000,2019-09-18 08:31:18.000,Travis Comer
+Blocker,Becker 3,11993820-000,2019-09-18 08:31:14.000,Travis Comer
+Blocker,Katherine Brown 3,11993821-000,2019-09-18 08:31:16.000,Travis Comer
+Blocker,Thompson 3,11993823-000,2019-09-18 08:31:19.000,Travis Comer
+Blocker,Roscoe 3,11993824-000,2019-09-18 08:31:18.000,Travis Comer
+Blocker,James 3,11993828-000,2019-09-18 08:31:15.000,Travis Comer
+Blocker,Washington 3,11993829-000,2019-09-18 08:31:19.000,Travis Comer
+Blocker,Katherine Brown 4,11993831-000,2019-09-18 08:31:16.000,Travis Comer
+Blocker,James 4,11993832-000,2019-09-18 08:31:15.000,Travis Comer
+Blocker,Thompson 4,11993833-000,2019-09-18 08:31:19.000,Travis Comer
+Blocker,Akins Reeves 4,11993834-000,2019-09-18 08:31:13.000,Travis Comer
+Blocker,Amis 2,11993835-000,2019-09-18 08:31:14.000,Travis Comer
+Blocker,Kathleen Resch 4,11993839-000,2019-09-18 08:31:16.000,Travis Comer
+Blocker,Maude Brown 4,11993843-000,2019-09-18 08:31:17.000,Travis Comer
+Blocker,Kathleen Resch 3,11993845-000,2019-09-18 08:31:16.000,Travis Comer
+Blocker,Knackstedt 4,11993846-000,2019-09-18 08:31:16.000,Travis Comer
+Blocker,Mary Roden 4,11993847-000,2019-09-18 08:31:16.000,Travis Comer
+Blocker,Maude Brown 3,11993848-000,2019-09-18 08:31:17.000,Travis Comer
+Blocker,Nancy Brewster 3,11993851-000,2019-09-18 08:31:17.000,Travis Comer
+Blocker,Vann 3,11993853-000,2019-09-18 08:31:19.000,Travis Comer
+Blocker,Becker 4,11993854-000,2019-09-18 08:31:14.000,Travis Comer
+Blocker,Bath B 4,11993855-000,2019-09-18 08:31:14.000,Travis Comer
+Blocker,Vann 4,11993856-000,2019-09-18 08:31:19.000,Travis Comer
+Blocker,Runnels 4,11993858-000,2019-09-18 08:31:18.000,Travis Comer
+Blocker,Runnels 3,11993859-000,2019-09-18 08:31:18.000,Travis Comer
+Blocker,T W George A 2,11993861-000,2019-09-18 08:31:18.000,Travis Comer
+Blocker,Patterson Herrin 3,11993862-000,2019-09-18 08:31:17.000,Travis Comer
+Blocker,Katherine Brown 2,11993863-000,2019-09-18 08:31:16.000,Travis Comer
+Blocker,Patterson Herrin 4,11993864-000,2019-09-18 08:31:17.000,Travis Comer
+Blocker,Bath A 3,11993870-000,2019-09-18 08:31:14.000,Travis Comer
+Blocker,Dudeck Heirs 2,11993871-000,2019-09-18 08:31:15.000,Travis Comer
+Blocker,T W George B 3,11993872-000,2019-09-18 08:31:18.000,Travis Comer
+Blocker,T W George A 3,11993873-000,2019-09-18 08:31:18.000,Travis Comer
+Blocker,Washington 4,11993874-000,2019-09-18 08:31:19.000,Travis Comer
+Blocker,Chauvin Landry 2,11993883-000,2019-09-18 08:31:15.000,Travis Comer
+Blocker,Bath B 3,11993892-000,2019-09-18 08:31:14.000,Travis Comer
+Blocker,Rosborough B 3,11993894-000,2019-09-18 08:31:18.000,Travis Comer
+Blocker,Coats 2,11993896-000,2019-09-18 08:31:15.000,Travis Comer
+Blocker,Brune Burnett B 2,11993905-000,2019-09-18 08:31:15.000,Travis Comer
+Blocker,Dorsett 3,11993919-000,2019-09-18 08:31:15.000,Travis Comer
+Blocker,Matthews 2,11993925-000,2019-09-18 08:31:16.000,Travis Comer
+Blocker,Dorsett 4,11994027-000,2019-09-18 08:31:15.000,Travis Comer
+Blocker,Ware A 5,11994028-000,2019-09-18 08:31:19.000,Travis Comer
+Blocker,Resch B 2,11994033-000,2019-09-18 08:31:17.000,Travis Comer
+Blocker,Resch B 3,11994034-000,2019-09-18 08:31:17.000,Travis Comer
+Blocker,Dorsett 5,11994038-000,2019-09-18 08:31:15.000,Travis Comer
+Blocker,T W George A 4,11994058-000,2019-09-18 08:31:18.000,Travis Comer
+Blocker,Runnels 5,11994155-000,2019-09-18 08:31:18.000,Travis Comer
+Blocker,Thompson 5,11994156-000,2019-09-18 08:31:19.000,Travis Comer
+Blocker,Kathleen Resch 5,11994157-000,2019-09-18 08:31:16.000,Travis Comer
+Blocker,Knackstedt 5,11994164-000,2019-09-18 08:31:16.000,Travis Comer
+Blocker,Runnels 6,12004357-000,2019-09-18 08:31:18.000,Travis Comer
+Blocker,Bath B 6,12108407-000,2019-09-18 08:31:14.000,Travis Comer
+Blocker,Thompson 6,12108652-000,2019-09-18 08:31:19.000,Travis Comer
+Blocker,T W George B 4,12108653-000,2019-09-18 08:31:18.000,Travis Comer
+Blocker,Dudeck Heirs 3,12108915-000,2019-09-18 08:31:15.000,Travis Comer
+Blocker,Maude Brown 5,12109569-000,2019-09-18 08:31:17.000,Travis Comer
+Blocker,Matthews 3,12109591-000,2019-09-18 08:31:16.000,Travis Comer
+Blocker,Washington 8,12109835-000,2019-09-18 08:31:19.000,Travis Comer
+Blocker,Knackstedt 7,12109852-000,2019-09-18 08:31:16.000,Travis Comer
+Blocker,Kathleen Resch 6,12110009-000,2019-09-18 08:31:16.000,Travis Comer
+Blocker,Becker 5,12110153-000,2019-09-18 08:31:14.000,Travis Comer
+Blocker,Knackstedt 6,12110802-000,2019-09-18 08:31:16.000,Travis Comer
+Blocker,Patterson Herrin 5,12121927-000,2019-09-18 08:31:17.000,Travis Comer
+Blocker,Kathleen Resch 8,12121945-000,2019-09-18 08:31:16.000,Travis Comer
+Blocker,Akins Reeves 3,12447050-000,2019-09-18 08:31:13.000,Travis Comer
+Blocker,Akins Reeves 2,12447051-000,2019-09-18 08:31:13.000,Travis Comer
+Blocker,Akins Reeves 5,12447638-000,2019-09-18 08:31:13.000,Travis Comer
+Blocker,Akins Reeves 6,12629363-000,2019-09-18 08:31:13.000,Travis Comer
+Blocker,Mary Roden 7,12651446-000,2019-09-18 08:31:16.000,Travis Comer
+Blocker,T W George A 7,12659416-000,2019-09-18 08:31:18.000,Travis Comer
+Blocker,Allen 5,12660218-000,2019-09-18 08:31:13.000,Travis Comer
+Blocker,Katherine Brown 5,12672729-000,2019-09-18 08:31:16.000,Travis Comer
+Blocker,Patterson Herrin 8,12677890-000,2019-09-18 08:31:17.000,Travis Comer
+Blocker,Maude Brown 7,12773739-000,2019-09-18 08:31:17.000,Travis Comer
+Blocker,Roscoe 4,12914467-000,2019-09-18 08:31:18.000,Travis Comer
+Blocker,Washington 6,12920043-000,2019-09-18 08:31:19.000,Travis Comer
+Blocker,Brewster 8,12936034-000,2019-09-18 08:31:15.000,Travis Comer
+Blocker,Young B 5,12936036-000,2019-09-18 08:31:20.000,Travis Comer
+Blocker,Young B 2,12939682-000,2019-09-18 08:31:20.000,Travis Comer
+Blocker,Washington 5,12961259-000,2019-09-18 08:31:19.000,Travis Comer
+Blocker,Rosborough B 6,12984842-000,2019-09-18 08:31:18.000,Travis Comer
+Blocker,Matthews 5,13003031-000,2019-09-18 08:31:17.000,Travis Comer
+Blocker,Patterson Herrin 6,13019058-000,2019-09-18 08:31:17.000,Travis Comer
+Blocker,Becker 6,13030211-000,2019-09-18 08:31:14.000,Travis Comer
+Blocker,T W George A 5,13047419-000,2019-09-18 08:31:18.000,Travis Comer
+Blocker,Thompson 7,13129225-000,2019-09-18 08:31:19.000,Travis Comer
+Blocker,Rosborough 4,13137522-000,2019-09-18 08:31:18.000,Travis Comer
+Blocker,Kathleen Resch 7,13144798-000,2019-09-18 08:31:16.000,Travis Comer
+Blocker,Patterson Herrin 7,13144807-000,2019-09-18 08:31:17.000,Travis Comer
+Blocker,Maude Brown 6,13149678-000,2019-09-18 08:31:17.000,Travis Comer
+Blocker,T W George A 6,13164873-000,2019-09-18 08:31:18.000,Travis Comer
+Blocker,T W George A 8 H,13166470-000,2019-09-18 08:31:18.000,Travis Comer
+Blocker,Becker 9,13168337-000,2019-09-18 08:31:14.000,Travis Comer
+Blocker,Mary Roden 5,13170100-000,2019-09-18 08:31:16.000,Travis Comer
+Blocker,Rosborough B 5,13186390-000,2019-09-18 08:31:18.000,Travis Comer
+Blocker,Becker 8,13186996-000,2019-09-18 08:31:14.000,Travis Comer
+Blocker,Dudeck Heirs 5 H,13228037-000,2019-09-18 08:31:15.000,Travis Comer
+Blocker,Becker 7,13234941-000,2019-09-18 08:31:14.000,Travis Comer
+Blocker,Dudeck Heirs 4,13235229-000,2019-09-18 08:31:15.000,Travis Comer
+Blocker,Brune Burnett C 2,13235240-000,2019-09-18 08:31:15.000,Travis Comer
+Blocker,Allen 3,13235359-000,2019-09-18 08:31:13.000,Travis Comer
+Blocker,Mosley 5,13235408-000,2019-09-18 08:31:17.000,Travis Comer
+Blocker,Allen 8,13235490-000,2019-09-18 08:31:14.000,Travis Comer
+Blocker,T W George B 5,13271730-000,2019-09-18 08:31:18.000,Travis Comer
+Blocker,Brune Burnett C 3,13282370-000,2019-09-18 08:31:15.000,Travis Comer
+Blocker,Roscoe 5 H,13319724-000,2019-09-18 08:31:18.000,Travis Comer
+Blocker,Akins Reeves 7,13323183-000,2019-09-18 08:31:13.000,Travis Comer
+Blocker,T W George A 9 H,13334797-000,2019-09-18 08:31:18.000,Travis Comer
+Blocker,Bath A 5,13349940-000,2019-09-18 08:31:14.000,Travis Comer
+Blocker,Nancy Brewster 7,13350956-000,2019-09-18 08:31:17.000,Travis Comer
+Blocker,Brune Burnett C 4,13356900-000,2019-09-18 08:31:15.000,Travis Comer
+Blocker,Bath B 8,13356902-000,2019-09-18 08:31:14.000,Travis Comer
+Blocker,Bath A 4,13356904-000,2019-09-18 08:31:14.000,Travis Comer
+Blocker,Chauvin Landry 4,13356906-000,2019-09-18 08:31:15.000,Travis Comer
+Blocker,Brewster 4,13499447-000,2019-09-18 08:31:14.000,Travis Comer
+Blocker,Brewster 5,13499448-000,2019-09-18 08:31:14.000,Travis Comer
+Blocker,Runnels 8,13545815-000,2019-09-18 08:31:18.000,Travis Comer
+Blocker,Ware A 6,13613783-000,2019-09-18 08:31:19.000,Travis Comer
+Blocker,Ware A 7,13613785-000,2019-09-18 08:31:19.000,Travis Comer
+Blocker,Ware A 8,13613786-000,2019-09-18 08:31:19.000,Travis Comer
+Blocker,Brewster 6,13695861-000,2019-09-18 08:31:15.000,Travis Comer
+Blocker,Young B 4,13695863-000,2019-09-18 08:31:20.000,Travis Comer
+Blocker,Resch B 4,13861882-000,2019-09-18 08:31:17.000,Travis Comer
+Blocker,Young B 3,13916879-000,2019-09-18 08:31:20.000,Travis Comer
+Blocker,Mosley 4,13941361-000,2019-09-18 08:31:17.000,Travis Comer
+Blocker,Bath A 8,14039153-000,2019-09-18 08:31:14.000,Travis Comer
+Blocker,Allen 4,14051312-000,2019-09-18 08:31:13.000,Travis Comer
+Blocker,Bath A 7,14073280-000,2019-09-18 08:31:14.000,Travis Comer
+Blocker,Brewster 7,14078983-000,2019-09-18 08:31:15.000,Travis Comer
+Blocker,Brune Burnett C 5,14140697-000,2019-09-18 08:31:15.000,Travis Comer
+Blocker,Brune Burnett C 6,14158991-000,2019-09-18 08:31:15.000,Travis Comer
+Blocker,Brune Burnett B 4,14161089-000,2019-09-18 08:31:15.000,Travis Comer
+Blocker,Brune Burnett B 7,14162224-000,2019-09-18 08:31:15.000,Travis Comer
+Blocker,Brune Burnett B 6,14164418-000,2019-09-18 08:31:15.000,Travis Comer
+Blocker,Allen 7,14174190-000,2019-09-18 08:31:14.000,Travis Comer
+Blocker,Mary Roden 3,14176720-000,2019-09-18 08:31:16.000,Travis Comer
+Blocker,Rosborough B 7,14195601-000,2019-09-18 08:31:18.000,Travis Comer
+Blocker,Washington 7,14209531-000,2019-09-18 08:31:19.000,Travis Comer
+Blocker,Allen 6,14209546-000,2019-09-18 08:31:14.000,Travis Comer
+Blocker,Vann 5,14210477-000,2019-09-18 08:31:19.000,Travis Comer
+Blocker,Vann 6,14210478-000,2019-09-18 08:31:19.000,Travis Comer
+Blocker,Akins Reeves 1,14217775-000,2019-09-18 08:31:13.000,Travis Comer
+Brookeland,BP Fee A 344,12193144-000,2019-09-18 08:39:41.000,Travis Comer
+Brookeland,BP Fee A 896,12193155-000,2019-09-18 08:39:41.000,Travis Comer
+Brookeland,Arco Fee A 254,12193194-000,2019-09-18 08:39:41.000,Travis Comer
+East Carthage,Burnett Brothers 7,12272549-000,2019-09-18 08:42:18.000,Travis Comer
+East Carthage,Burnett Brothers 1,12272550-002,2019-09-18 08:42:17.000,Travis Comer
+East Carthage,Burnett Brothers 5,12272553-004,2019-09-18 08:42:18.000,Travis Comer
+East Carthage,CGU 7 1,12272581-002,2019-09-18 08:42:23.000,Travis Comer
+East Carthage,CGU 15 1,12273461-002,2019-09-18 08:42:21.000,Travis Comer
+East Carthage,CGU 15 2,12273670-000,2019-09-18 08:42:21.000,Travis Comer
+East Carthage,CGU 14 3,12273672-000,2019-09-18 08:42:21.000,Travis Comer
+East Carthage,CGU 14 2,12273673-003,2019-09-18 08:42:21.000,Travis Comer
+East Carthage,Burnett Brothers 2 C,12273700-000,2019-09-18 08:42:17.000,Travis Comer
+East Carthage,CGU 10 1 T,12273703-002,2019-09-18 08:42:19.000,Travis Comer
+East Carthage,CGU 11 1,12273704-001,2019-09-18 08:42:19.000,Travis Comer
+East Carthage,CGU 12 2,12273707-006,2019-09-18 08:42:20.000,Travis Comer
+East Carthage,CGU 6 A 1,12273761-002,2019-09-18 08:42:22.000,Travis Comer
+East Carthage,CGU 11 3,12274228-000,2019-09-18 08:42:19.000,Travis Comer
+East Carthage,CGU 14 4,12274256-004,2019-09-18 08:42:21.000,Travis Comer
+East Carthage,CGU 6 A 2,12274358-000,2019-09-18 08:42:22.000,Travis Comer
+East Carthage,CGU 12 3,12274396-000,2019-09-18 08:42:20.000,Travis Comer
+East Carthage,CGU 9 4,12274479-000,2019-09-18 08:42:23.000,Travis Comer
+East Carthage,CGU 13 3,12274480-000,2019-09-18 08:42:20.000,Travis Comer
+East Carthage,CGU 7 3,12274482-000,2019-09-18 08:42:23.000,Travis Comer
+East Carthage,CGU 14 5,12274537-000,2019-09-18 08:42:21.000,Travis Comer
+East Carthage,CGU 7 4,12274650-000,2019-09-18 08:42:23.000,Travis Comer
+East Carthage,Burnett Brothers 10,12274653-000,2019-09-18 08:42:17.000,Travis Comer
+East Carthage,Burnett Brothers 12,12274655-003,2019-09-18 08:42:17.000,Travis Comer
+East Carthage,CGU 3 A 17,12274713-000,2019-09-18 08:42:22.000,Travis Comer
+East Carthage,CGU 18 1,12274725-000,2019-09-18 08:42:21.000,Travis Comer
+East Carthage,CGU 10 5,12274751-006,2019-09-18 08:42:19.000,Travis Comer
+East Carthage,CGU 13 5,12274833-000,2019-09-18 08:42:20.000,Travis Comer
+East Carthage,Burnett Brothers 14,12274850-000,2019-09-18 08:42:17.000,Travis Comer
+East Carthage,CGU 11 4,12274872-000,2019-09-18 08:42:19.000,Travis Comer
+East Carthage,Burnett Brothers 15,12274930-005,2019-09-18 08:42:17.000,Travis Comer
+East Carthage,CGU 12 4,12275051-001,2019-09-18 08:42:20.000,Travis Comer
+East Carthage,CGU 3 A 3,12275158-000,2019-09-18 08:42:22.000,Travis Comer
+East Carthage,CGU 13 6,12275202-000,2019-09-18 08:42:20.000,Travis Comer
+East Carthage,CGU 10 6,12275205-000,2019-09-18 08:42:19.000,Travis Comer
+East Carthage,CGU 12 5,12275292-000,2019-09-18 08:42:20.000,Travis Comer
+East Carthage,CGU 14 6,12275299-000,2019-09-18 08:42:21.000,Travis Comer
+East Carthage,CGU 18 2,12275438-000,2019-09-18 08:42:21.000,Travis Comer
+East Carthage,CGU 15 6,12275451-000,2019-09-18 08:42:21.000,Travis Comer
+East Carthage,CGU 6 A 3,12275539-000,2019-09-18 08:42:22.000,Travis Comer
+East Carthage,CGU 7 5,12275540-000,2019-09-18 08:42:23.000,Travis Comer
+East Carthage,Burnett Brothers 20,12275541-003,2019-09-18 08:42:17.000,Travis Comer
+East Carthage,Burnett Brothers 19,12275542-000,2019-09-18 08:42:17.000,Travis Comer
+East Carthage,Burnett Brothers 18,12275543-000,2019-09-18 08:42:17.000,Travis Comer
+East Carthage,CGU 3 A 4,12275668-000,2019-09-18 08:42:22.000,Travis Comer
+East Carthage,CGU 3 A 5,12275761-000,2019-09-18 08:42:22.000,Travis Comer
+East Carthage,CGU 6 A 4,12275780-000,2019-09-18 08:42:22.000,Travis Comer
+East Carthage,CGU 13 7,12275832-000,2019-09-18 08:42:20.000,Travis Comer
+East Carthage,CGU 12 6,12275833-000,2019-09-18 08:42:20.000,Travis Comer
+East Carthage,Burnett Brothers 23,12275858-003,2019-09-18 08:42:18.000,Travis Comer
+East Carthage,CGU 18 3,12275858-004,2019-09-18 08:42:21.000,Travis Comer
+East Carthage,CGU 10 7,12275869-000,2019-09-18 08:42:19.000,Travis Comer
+East Carthage,Burnett Brothers 22,12275886-005,2019-09-18 08:42:18.000,Travis Comer
+East Carthage,Burnett Brothers 21 U,12275887-000,2019-09-18 08:42:17.000,Travis Comer
+East Carthage,Burnett Brothers 21 L,12275887-003,2019-09-18 08:42:17.000,Travis Comer
+East Carthage,CGU 10 8 L,12275921-000,2019-09-18 08:42:19.000,Travis Comer
+East Carthage,CGU 10 8 U,12275921-002,2019-09-18 08:42:19.000,Travis Comer
+East Carthage,Burnett Brothers 25 L,12275922-000,2019-09-18 08:42:18.000,Travis Comer
+East Carthage,Burnett Brothers 25 U,12275922-004,2019-09-18 08:42:18.000,Travis Comer
+East Carthage,CGU 14 7 L,12275924-000,2019-09-18 08:42:21.000,Travis Comer
+East Carthage,CGU 14 7 U,12275924-002,2019-09-18 08:42:21.000,Travis Comer
+East Carthage,CGU 12 7,12275925-005,2019-09-18 08:42:20.000,Travis Comer
+East Carthage,CGU 11 7,12275927-000,2019-09-18 08:42:19.000,Travis Comer
+East Carthage,Burnett Brothers 24,12275928-000,2019-09-18 08:42:18.000,Travis Comer
+East Carthage,CGU 18 4,12275929-000,2019-09-18 08:42:21.000,Travis Comer
+East Carthage,Burnett Brothers 1 27,12275929-002,2019-09-18 08:42:17.000,Travis Comer
+East Carthage,CGU 9 7,12275930-000,2019-09-18 08:42:23.000,Travis Comer
+East Carthage,CGU 13 8,12275931-000,2019-09-18 08:42:20.000,Travis Comer
+East Carthage,CGU 11 6 L,12275932-000,2019-09-18 08:42:19.000,Travis Comer
+East Carthage,CGU 11 6 U,12275932-004,2019-09-18 08:42:19.000,Travis Comer
+East Carthage,Burnett Brothers 26 U,12275984-003,2019-09-18 08:42:18.000,Travis Comer
+East Carthage,CGU 7 6 L,12276003-000,2019-09-18 08:42:23.000,Travis Comer
+East Carthage,CGU 7 6 U,12276003-003,2019-09-18 08:42:23.000,Travis Comer
+East Carthage,CGU 15 8,12276013-000,2019-09-18 08:42:21.000,Travis Comer
+East Carthage,CGU 3 A 6,12276059-000,2019-09-18 08:42:22.000,Travis Comer
+East Carthage,CGU 6 A 5,12276068-000,2019-09-18 08:42:22.000,Travis Comer
+East Carthage,CGU 12 8,12276141-005,2019-09-18 08:42:20.000,Travis Comer
+East Carthage,CGU 11 8,12276350-000,2019-09-18 08:42:19.000,Travis Comer
+East Carthage,CGU 3 A 7,12276362-000,2019-09-18 08:42:22.000,Travis Comer
+East Carthage,CGU 3 A 8,12276446-000,2019-09-18 08:42:22.000,Travis Comer
+East Carthage,CGU 3 A 9,12276463-000,2019-09-18 08:42:22.000,Travis Comer
+East Carthage,CGU 15 9,12276481-000,2019-09-18 08:42:21.000,Travis Comer
+East Carthage,CGU 9 10,12276976-000,2019-09-18 08:42:23.000,Travis Comer
+East Carthage,CGU 13 10 L,12276997-000,2019-09-18 08:42:20.000,Travis Comer
+East Carthage,CGU 13 10 U,12276997-002,2019-09-18 08:42:20.000,Travis Comer
+East Carthage,CGU 13 12,12276999-000,2019-09-18 08:42:20.000,Travis Comer
+East Carthage,CGU 12 11,12277016-005,2019-09-18 08:42:20.000,Travis Comer
+East Carthage,Burnett Brothers 6 T,12284639-000,2019-09-18 08:42:18.000,Travis Comer
+East Carthage,CGU 15 10,12342947-000,2019-09-18 08:42:21.000,Travis Comer
+East Carthage,Burnett Brothers 29,12342951-000,2019-09-18 08:42:18.000,Travis Comer
+East Carthage,CGU 13 13,12342953-000,2019-09-18 08:42:20.000,Travis Comer
+East Carthage,CGU 3 A 2,12343199-000,2019-09-18 08:42:22.000,Travis Comer
+East Carthage,CGU 11 5,12345324-005,2019-09-18 08:42:19.000,Travis Comer
+East Carthage,CGU 14 8 L,12345361-000,2019-09-18 08:42:21.000,Travis Comer
+East Carthage,CGU 14 8 U,12345361-003,2019-09-18 08:42:21.000,Travis Comer
+East Carthage,CGU 14 10 L,12346240-000,2019-09-18 08:42:20.000,Travis Comer
+East Carthage,CGU 14 10 U,12346240-002,2019-09-18 08:42:20.000,Travis Comer
+East Carthage,CGU 11 9,12346241-001,2019-09-18 08:42:19.000,Travis Comer
+East Carthage,CGU 14 12,12350091-003,2019-09-18 08:42:20.000,Travis Comer
+East Carthage,CGU 9 5,12357475-005,2019-09-18 08:42:23.000,Travis Comer
+East Carthage,Burnett Brothers 31,12357485-000,2019-09-18 08:42:18.000,Travis Comer
+East Carthage,CGU 10 12,12358076-000,2019-09-18 08:42:19.000,Travis Comer
+East Carthage,CGU 12 9 L,12358111-000,2019-09-18 08:42:20.000,Travis Comer
+East Carthage,CGU 12 9 U,12358111-003,2019-09-18 08:42:20.000,Travis Comer
+East Carthage,CGU 12 13,12359296-000,2019-09-18 08:42:20.000,Travis Comer
+East Carthage,CGU 13 11,12359788-003,2019-09-18 08:42:20.000,Travis Comer
+East Carthage,CGU 18 5,12359934-000,2019-09-18 08:42:21.000,Travis Comer
+East Carthage,Burnett Brothers 34,12359934-004,2019-09-18 08:42:18.000,Travis Comer
+East Carthage,CGU 9 8 L,12359988-000,2019-09-18 08:42:23.000,Travis Comer
+East Carthage,CGU 9 8 U,12359988-003,2019-09-18 08:42:23.000,Travis Comer
+East Carthage,CGU 14 9 L,12360003-000,2019-09-18 08:42:21.000,Travis Comer
+East Carthage,CGU 14 9 U,12360003-003,2019-09-18 08:42:21.000,Travis Comer
+East Carthage,CGU 15 13 L,12360469-000,2019-09-18 08:42:21.000,Travis Comer
+East Carthage,CGU 15 13 U,12360469-002,2019-09-18 08:42:21.000,Travis Comer
+East Carthage,CGU 3 A 10,12360782-000,2019-09-18 08:42:21.000,Travis Comer
+East Carthage,CGU 10 11,12361214-004,2019-09-18 08:42:19.000,Travis Comer
+East Carthage,CGU 12 10,12361495-002,2019-09-18 08:42:20.000,Travis Comer
+East Carthage,CGU 10 9 L,12361661-000,2019-09-18 08:42:19.000,Travis Comer
+East Carthage,CGU 10 9 U,12361661-002,2019-09-18 08:42:19.000,Travis Comer
+East Carthage,CGU 11 10 L,12361853-000,2019-09-18 08:42:19.000,Travis Comer
+East Carthage,CGU 11 10 U,12361853-004,2019-09-18 08:42:19.000,Travis Comer
+East Carthage,CGU 11 11,12361887-000,2019-09-18 08:42:19.000,Travis Comer
+East Carthage,CGU 14 11,12362002-000,2019-09-18 08:42:20.000,Travis Comer
+East Carthage,CGU 12 12 U,12362006-000,2019-09-18 08:42:20.000,Travis Comer
+East Carthage,CGU 12 12 L,12362006-003,2019-09-18 08:42:20.000,Travis Comer
+East Carthage,CGU 9 9 L,12362191-000,2019-09-18 08:42:23.000,Travis Comer
+East Carthage,CGU 9 9 U,12362191-003,2019-09-18 08:42:23.000,Travis Comer
+East Carthage,CGU 6 A 6,12367485-000,2019-09-18 08:42:22.000,Travis Comer
+East Carthage,CGU 6 A 8,12369311-000,2019-09-18 08:42:23.000,Travis Comer
+East Carthage,CGU 3 A 11,12372925-000,2019-09-18 08:42:21.000,Travis Comer
+East Carthage,CGU 3 A 12,12372926-000,2019-09-18 08:42:21.000,Travis Comer
+East Carthage,CGU 3 A 13,12372927-000,2019-09-18 08:42:22.000,Travis Comer
+East Carthage,CGU 3 A 14,12372928-000,2019-09-18 08:42:22.000,Travis Comer
+East Carthage,CGU 6 A 9,12373135-000,2019-09-18 08:42:23.000,Travis Comer
+East Carthage,CGU 18 6,12373271-000,2019-09-18 08:42:21.000,Travis Comer
+East Carthage,CGU 6 A 7,12373663-000,2019-09-18 08:42:23.000,Travis Comer
+East Carthage,CGU 12 14,12374247-000,2019-09-18 08:42:20.000,Travis Comer
+East Carthage,CGU 15 14,12374369-000,2019-09-18 08:42:21.000,Travis Comer
+East Carthage,Burnett Brothers 35,12374472-003,2019-09-18 08:42:18.000,Travis Comer
+East Carthage,Burnett Brothers 37,12374667-000,2019-09-18 08:42:18.000,Travis Comer
+East Carthage,CGU 6 A 10,12374931-000,2019-09-18 08:42:22.000,Travis Comer
+East Carthage,CGU 6 A 11,12374932-000,2019-09-18 08:42:22.000,Travis Comer
+East Carthage,CGU 15 15,12375087-000,2019-09-18 08:42:21.000,Travis Comer
+East Carthage,Burnett Brothers 32,12375128-000,2019-09-18 08:42:18.000,Travis Comer
+East Carthage,Burnett Brothers 38,12375387-003,2019-09-18 08:42:18.000,Travis Comer
+East Carthage,Burnett Brothers 30,12375734-000,2019-09-18 08:42:18.000,Travis Comer
+East Carthage,CGU 3 A 15,12376010-000,2019-09-18 08:42:22.000,Travis Comer
+East Carthage,CGU 3 A 16,12376011-000,2019-09-18 08:42:22.000,Travis Comer
+East Carthage,Burnett Brothers 39,12376986-000,2019-09-18 08:42:18.000,Travis Comer
+East Carthage,CGU 9 11,12377013-000,2019-09-18 08:42:23.000,Travis Comer
+East Carthage,CGU 13 15,12932588-000,2019-09-18 08:42:20.000,Travis Comer
+East Carthage,CGU 13 14,12933720-000,2019-09-18 08:42:20.000,Travis Comer
+East Carthage,CGU 13 16,12947960-000,2019-09-18 08:42:20.000,Travis Comer
+East Carthage,CGU 6 A 14,12976957-000,2019-09-18 08:42:22.000,Travis Comer
+East Carthage,Burnett Brothers 47,13057267-003,2019-09-18 08:42:18.000,Travis Comer
+East Carthage,CGU 6 A 12,13125590-000,2019-09-18 08:42:22.000,Travis Comer
+East Carthage,Burnett Brothers 40,13132681-000,2019-09-18 08:42:18.000,Travis Comer
+East Carthage,CGU 18 8,13154098-000,2019-09-18 08:42:21.000,Travis Comer
+East Carthage,CGU 6 A 13,13239978-000,2019-09-18 08:42:22.000,Travis Comer
+East Carthage,Burnett Brothers 36,13240043-000,2019-09-18 08:42:18.000,Travis Comer
+East Carthage,Cypress Point 1,13240201-000,2019-09-18 08:42:23.000,Travis Comer
+East Carthage,CGU 13 17 H,13352040-000,2019-09-18 08:42:20.000,Travis Comer
+East Carthage,CGU 9 6,13768611-000,2019-09-18 08:42:23.000,Travis Comer
+East Carthage,Burnett Brothers 41,13917493-000,2019-09-18 08:42:18.000,Travis Comer
+East Carthage,Burnett Brothers 44,13923422-000,2019-09-18 08:42:18.000,Travis Comer
+East Carthage,Burnett Brothers 45,13942172-000,2019-09-18 08:42:18.000,Travis Comer
+East Carthage,Burnett Brothers 42,13955636-000,2019-09-18 08:42:18.000,Travis Comer
+East Carthage,CGU 7 7,14044015-000,2019-09-18 08:42:23.000,Travis Comer
+East Carthage,CGU 18 7,14053352-000,2019-09-18 08:42:21.000,Travis Comer
+East Carthage,Burnett Brothers 46,14084388-000,2019-09-18 08:42:18.000,Travis Comer
+East Carthage,Burnett Brothers 49,14145867-000,2019-09-18 08:42:18.000,Travis Comer
+East Carthage,CGU 11 13,14155851-000,2019-09-18 08:42:19.000,Travis Comer
+East Carthage,CGU 11 14,14164516-000,2019-09-18 08:42:19.000,Travis Comer
+East Carthage,Burnett Brothers 33,14215992-000,2019-09-18 08:42:18.000,Travis Comer
+Glenwood,Frank White 1,11970805-000,2019-09-18 08:45:09.000,Travis Comer
+Glenwood,Rosa Corbin 1,11971111-000,2019-09-18 08:45:10.000,Travis Comer
+Glenwood,Bozman 1,11971119-000,2019-09-18 08:45:09.000,Travis Comer
+Glenwood,Nicholson 3,11971128-000,2019-09-18 08:45:09.000,Travis Comer
+Glenwood,Orr 1,12005498-000,2019-09-18 08:45:10.000,Travis Comer
+Glenwood,Moyers 2,12106722-000,2019-09-18 08:45:09.000,Travis Comer
+Glenwood,Chevron 1,12106999-003,2019-09-18 08:45:09.000,Travis Comer
+Glenwood,Chevron 2,12107006-000,2019-09-18 08:45:09.000,Travis Comer
+Glenwood,Brawley 1,12468475-000,2019-09-18 08:45:09.000,Travis Comer
+Glenwood,Nicholson 1,12468557-000,2019-09-18 08:45:09.000,Travis Comer
+Glenwood,Vida Smart 2,12468580-001,2019-09-18 08:45:10.000,Travis Comer
+Glenwood,Medlin 1,12468665-000,2019-09-18 08:45:09.000,Travis Comer
+Glenwood,George Joseph 1,12468671-000,2019-09-18 08:45:09.000,Travis Comer
+Glenwood,Obyrne Heirs 1,12468679-000,2019-09-18 08:45:10.000,Travis Comer
+Glenwood,Mason 1,12468690-000,2019-09-18 08:45:09.000,Travis Comer
+Glenwood,Medlin 2,12468691-000,2019-09-18 08:45:09.000,Travis Comer
+Glenwood,Lena Hiatt 2,12468693-000,2019-09-18 08:45:09.000,Travis Comer
+Glenwood,Lena Hiatt 3,12468699-000,2019-09-18 08:45:09.000,Travis Comer
+Glenwood,Roberts 2,12468701-000,2019-09-18 08:45:10.000,Travis Comer
+Glenwood,Roberts 3,12468702-000,2019-09-18 08:45:10.000,Travis Comer
+Glenwood,Roberts 4,12468703-000,2019-09-18 08:45:10.000,Travis Comer
+Glenwood,Medlin 3,12468709-000,2019-09-18 08:45:09.000,Travis Comer
+Glenwood,Dixon A 4,12468710-000,2019-09-18 08:45:09.000,Travis Comer
+Glenwood,Vida Smart 1 A,12468713-000,2019-09-18 08:45:10.000,Travis Comer
+Glenwood,Vida Smart 3,12468714-000,2019-09-18 08:45:10.000,Travis Comer
+Glenwood,Shelton Estate 2,12468718-000,2019-09-18 08:45:10.000,Travis Comer
+Glenwood,Shelton Estate 1,12468719-000,2019-09-18 08:45:10.000,Travis Comer
+Glenwood,Vida Smart 6,12468720-000,2019-09-18 08:45:10.000,Travis Comer
+Glenwood,Vida Smart 5,12468721-000,2019-09-18 08:45:10.000,Travis Comer
+Glenwood,Obyrne Heirs 4,12468722-000,2019-09-18 08:45:10.000,Travis Comer
+Glenwood,Obyrne Heirs 2,12468723-000,2019-09-18 08:45:10.000,Travis Comer
+Glenwood,Vida Smart 4,12468726-000,2019-09-18 08:45:10.000,Travis Comer
+Glenwood,Nicholson 2,12468727-000,2019-09-18 08:45:09.000,Travis Comer
+Glenwood,South Brawley 2,12468731-000,2019-09-18 08:45:10.000,Travis Comer
+Glenwood,South Brawley 3,12468749-000,2019-09-18 08:45:10.000,Travis Comer
+Glenwood,Rubey Estates 1,12468754-000,2019-09-18 08:45:10.000,Travis Comer
+Glenwood,Roberts 5,12468805-000,2019-09-18 08:45:10.000,Travis Comer
+Glenwood,Medlin 4,12468806-000,2019-09-18 08:45:09.000,Travis Comer
+Glenwood,Walker 1,12514567-000,2019-09-18 08:45:11.000,Travis Comer
+Glenwood,Dixon A 1,12514569-000,2019-09-18 08:45:09.000,Travis Comer
+Glenwood,Dixon B 2,12514570-000,2019-09-18 08:45:09.000,Travis Comer
+Glenwood,Lena Hiatt 1,12610194-000,2019-09-18 08:45:09.000,Travis Comer
+Glenwood,Roberts 1,12610195-000,2019-09-18 08:45:10.000,Travis Comer
+Glenwood,Medlin 5,12610627-000,2019-09-18 08:45:09.000,Travis Comer
+Glenwood,Lena Hiatt 5,12610628-000,2019-09-18 08:45:09.000,Travis Comer
+Glenwood,Vida Smart 7,12610629-000,2019-09-18 08:45:11.000,Travis Comer
+Glenwood,Moyers 1,12612938-000,2019-09-18 08:45:09.000,Travis Comer
+Glenwood,Dixon B 1,12612940-000,2019-09-18 08:45:09.000,Travis Comer
+Glenwood,Dixon A 3,12629366-000,2019-09-18 08:45:09.000,Travis Comer
+Glenwood,Dixon A 2,12629367-000,2019-09-18 08:45:09.000,Travis Comer
+Glenwood,Lena Hiatt 4,12629373-000,2019-09-18 08:45:09.000,Travis Comer
+Glenwood,Shelton Estate 3,12633429-000,2019-09-18 08:45:10.000,Travis Comer
+Glenwood,Dixon A 5,12634050-000,2019-09-18 08:45:09.000,Travis Comer
+Glenwood,Roberts 6,12634408-000,2019-09-18 08:45:10.000,Travis Comer
+Glenwood,Vida Smart 8,12634513-000,2019-09-18 08:45:11.000,Travis Comer
+Glenwood,Nicholson 7,12634637-000,2019-09-18 08:45:09.000,Travis Comer
+Glenwood,Walker 2,12635156-000,2019-09-18 08:45:11.000,Travis Comer
+Glenwood,Shelton Estate 4,12641605-000,2019-09-18 08:45:10.000,Travis Comer
+Glenwood,Nicholson 8,12644242-000,2019-09-18 08:45:10.000,Travis Comer
+Glenwood,Obyrne Heirs A 5,12645839-000,2019-09-18 08:45:10.000,Travis Comer
+Glenwood,George Joseph 2,12646151-000,2019-09-18 08:45:09.000,Travis Comer
+Glenwood,South Brawley 1,13149755-000,2019-09-18 08:45:10.000,Travis Comer
+Glenwood,Obyrne Heirs A 6,13179765-000,2019-09-18 08:45:10.000,Travis Comer
+Glenwood,Medlin 6,13350269-000,2019-09-18 08:45:09.000,Travis Comer
+Glenwood,Dixon A 6 H,13370951-000,2019-09-18 08:45:09.000,Travis Comer
+Oak Hill,Watson 1,12445892-000,2019-09-18 08:46:21.000,Travis Comer
+Oak Hill,Hair 1,12445946-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Kinsey 1,12445987-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Jenkins 1,12446001-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Beckworth 1,12446003-000,2019-09-18 08:46:19.000,Travis Comer
+Oak Hill,Kangerga B 1,12446011-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Cullers 1,12446071-000,2019-09-18 08:46:19.000,Travis Comer
+Oak Hill,Grant 1,12446110-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Golden 1,12446249-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Fitzgerald 1,12446367-000,2019-09-18 08:46:19.000,Travis Comer
+Oak Hill,B N Rogers 1 L,12446466-000,2019-09-18 08:46:19.000,Travis Comer
+Oak Hill,B N Rogers 1 U,12446541-001,2019-09-18 08:46:19.000,Travis Comer
+Oak Hill,Golden 2,12446559-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Iona Armstrong 1,12446588-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Vinson 2,12446615-000,2019-09-18 08:46:21.000,Travis Comer
+Oak Hill,B N Rogers 3,12446936-000,2019-09-18 08:46:19.000,Travis Comer
+Oak Hill,Kangerga D 1,12446968-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Garrett Collie 1,12446981-000,2019-09-18 08:46:19.000,Travis Comer
+Oak Hill,Bassett 2,12447181-000,2019-09-18 08:46:19.000,Travis Comer
+Oak Hill,B N Rogers 4,12447193-000,2019-09-18 08:46:19.000,Travis Comer
+Oak Hill,Iona Armstrong 2,12447201-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Holtzclaw 1,12447208-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Driver 1,12447209-000,2019-09-18 08:46:19.000,Travis Comer
+Oak Hill,Menefee Heirs 1,12447248-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,B N Rogers 5,12447250-000,2019-09-18 08:46:19.000,Travis Comer
+Oak Hill,Bassett 3,12447253-000,2019-09-18 08:46:19.000,Travis Comer
+Oak Hill,Kinsey 2,12447287-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Hair 2,12447291-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Grant 2,12447294-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Bassett 4,12447295-000,2019-09-18 08:46:19.000,Travis Comer
+Oak Hill,Kangerga B 2,12447299-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Cullers 2,12447301-000,2019-09-18 08:46:19.000,Travis Comer
+Oak Hill,Golden 3,12447306-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Beckworth 3,12447308-000,2019-09-18 08:46:19.000,Travis Comer
+Oak Hill,Watson 2,12447312-000,2019-09-18 08:46:21.000,Travis Comer
+Oak Hill,Watson 3,12447313-000,2019-09-18 08:46:21.000,Travis Comer
+Oak Hill,Hair 4,12447316-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Hair 3,12447317-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Kangerga B 4,12447319-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Kangerga B 3,12447320-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Cullers 3,12447321-000,2019-09-18 08:46:19.000,Travis Comer
+Oak Hill,Kangerga D 2,12447324-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Holtzclaw 2,12447333-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Jenkins 4,12447467-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Garrett Collie 2,12447472-003,2019-09-18 08:46:19.000,Travis Comer
+Oak Hill,Bassett 5,12447476-000,2019-09-18 08:46:19.000,Travis Comer
+Oak Hill,Iona Armstrong 3,12447482-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Menefee Heirs 2,12447508-000,2019-09-18 08:46:21.000,Travis Comer
+Oak Hill,Holtzclaw 3,12447509-001,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Holtzclaw 4,12447646-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Jenkins 5,12514532-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Kinsey 4,12629355-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Garrett Collie 3,12633945-000,2019-09-18 08:46:19.000,Travis Comer
+Oak Hill,Driver 2,12634287-000,2019-09-18 08:46:19.000,Travis Comer
+Oak Hill,Kinsey 5,12634924-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Golden 4,12635363-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Kangerga B 5,12639986-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Kangerga B 6,12640274-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Garrett Collie 4,12643485-000,2019-09-18 08:46:19.000,Travis Comer
+Oak Hill,Beckworth 5,12644270-000,2019-09-18 08:46:19.000,Travis Comer
+Oak Hill,Kangerga 4,12679952-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Kangerga 2,12793565-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Kangerga 3 H,12936087-001,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Vinson 3,12967429-000,2019-09-18 08:46:21.000,Travis Comer
+Oak Hill,Driver 3,13076995-000,2019-09-18 08:46:19.000,Travis Comer
+Oak Hill,Golden 6,13085462-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Vinson 5,13132696-000,2019-09-18 08:46:21.000,Travis Comer
+Oak Hill,Golden 7,13135972-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Golden 5,13210457-000,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,Watson 4,13312429-003,2019-09-18 08:46:21.000,Travis Comer
+Oak Hill,Watson 5 H,13367868-000,2019-09-18 08:46:21.000,Travis Comer
+Oak Hill,Cullers 5,13413742-000,2019-09-18 08:46:19.000,Travis Comer
+Oak Hill,Watson 7 H,13483722-000,2019-09-18 08:46:21.000,Travis Comer
+Oak Hill,Kinsey 6,13565723-003,2019-09-18 08:46:20.000,Travis Comer
+Oak Hill,B N Rogers 7,14208885-000,2019-09-18 08:46:19.000,Travis Comer
+Oak Hill,B N Rogers 8,14208886-000,2019-09-18 08:46:19.000,Travis Comer
+Oak Hill,Vinson 4,14217810-000,2019-09-18 08:46:21.000,Travis Comer
+SoHa,Nelson Hay 1 H,13071342-000,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Aclco Hay 1 H,13387002-000,2020-01-07 11:44:26.000,Travis Comer
+SoHa,Aclco Hay 2 1 H,13763119-000,2020-01-07 11:44:26.000,Travis Comer
+SoHa,Sarge 1 H R,13860389-001,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Wombat 1 H,14248578-000,2020-01-07 11:44:28.000,Travis Comer
+SoHa,Wombat 2 H,14248579-000,2020-01-07 11:44:28.000,Travis Comer
+SoHa,Bandicoot 2 H,14258600-000,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Bandicoot 1 H B,14269983-000,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Trex 1 H,14295238-000,2020-01-07 11:44:28.000,Travis Comer
+SoHa,Walker 1 H,14295819-000,2020-01-07 11:44:28.000,Travis Comer
+SoHa,Dino 1 H,14303813-000,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Wallaby 2 H,14309276-000,2020-01-07 11:44:28.000,Travis Comer
+SoHa,Wallaby 1 H,14309562-000,2020-01-07 11:44:28.000,Travis Comer
+SoHa,Taz 2 H,14312669-000,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Taz 5 H B,14313648-000,2020-01-07 11:44:28.000,Travis Comer
+SoHa,Taz 4 H B,14313869-000,2020-01-07 11:44:28.000,Travis Comer
+SoHa,Koala 3 H,14313988-000,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Taz 1 H,14316545-000,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Taz 3 H,14319343-000,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Saber 1 H,14319899-001,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Saber 1 H B,14319900-001,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Utahraptor 1 H,14322612-001,2020-01-07 11:44:28.000,Travis Comer
+SoHa,Utahraptor 1 H B,14322613-001,2020-01-07 11:44:28.000,Travis Comer
+SoHa,Koala 5 H,14322672-000,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Callisto 1 H,14325314-000,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Pluto 1 H,14326646-001,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Pluto 1 H B,14326647-001,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Gasosaurus 1 H,14340136-001,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Sugar Glider 1 H B,14340216-001,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Sugar Glider 1 H,14340217-001,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Rockies 1 H,14354532-002,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Wallaby 4 H B,14364160-000,2020-01-07 11:44:28.000,Travis Comer
+SoHa,Koala 3 H B,14365559-000,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Trex 2 H,14365684-000,2020-01-07 11:44:28.000,Travis Comer
+SoHa,Trex 2 H B,14365685-000,2020-01-07 11:44:28.000,Travis Comer
+SoHa,Koala 6 H B,14367479-000,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Wallaby 3 H,14367849-000,2020-01-07 11:44:28.000,Travis Comer
+SoHa,Wallaby 3 H B,14368525-000,2020-01-07 11:44:28.000,Travis Comer
+SoHa,Velo 1 H,14374279-001,2020-01-07 11:44:28.000,Travis Comer
+SoHa,Titan 2 H R,14374999-000,2020-01-07 11:44:28.000,Travis Comer
+SoHa,Velo 1 H B,14376193-000,2020-01-07 11:44:28.000,Travis Comer
+SoHa,Stego 1 H,14376194-000,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Kanga 2 H,14376244-000,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Kanga 2 H B,14376245-000,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Mississippi 1 H,14376246-000,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Proteus 1 H,14379956-000,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Koala 2 H B,14379960-000,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Wombat 3 H B,14381121-000,2020-01-07 11:44:28.000,Travis Comer
+SoHa,Trex 3 H B,14381815-000,2020-01-07 11:44:28.000,Travis Comer
+SoHa,Dracorex 2 H,14384752-000,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Dracorex 2 H B,14384753-000,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Sugar Glider 2 H,14385259-000,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Sugar Glider 2 H B,14385419-000,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Titan 2 H B,14396384-000,2020-01-07 11:44:28.000,Travis Comer
+SoHa,Allosaurus 3 H,14402359-000,2020-01-07 11:44:26.000,Travis Comer
+SoHa,Allosaurus 3 H B,14402559-000,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Denali 3 H B,14404208-000,2020-01-07 11:44:27.000,Travis Comer
+SoHa,TTops 2 H,14404359-000,2020-01-07 11:44:28.000,Travis Comer
+SoHa,Rockies 4 H B,14406376-000,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Bronto 3 H,14412265-000,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Bronto 3 H B,14412447-000,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Pluto 2 H B,14429980-000,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Callisto 2 H B,14443485-000,2020-01-07 11:44:27.000,Travis Comer
+SoHa,Roo 2 H,14448851-000,2020-01-09 13:23:21.000,Travis Comer
+SoHa,Roo 2 H B,14448852-000,2020-01-09 13:23:21.000,Travis Comer
+SoHa,Europa 1 H,14452960-000,2020-01-07 11:44:27.000,Travis Comer
+Stockman,Ethridge 971 1,12669141-003,2019-09-18 08:47:01.000,Travis Comer
+Stockman,Georgetown 885 1,13031180-003,2019-09-18 08:47:01.000,Travis Comer
+Stockman,Georgetown 885 3,13171660-000,2019-09-18 08:47:01.000,Travis Comer
+Stockman,Ethridge 971 2,13324543-000,2019-09-18 08:47:01.000,Travis Comer
+Stockman,Georgetown 885 2,14218493-000,2019-09-18 08:47:01.000,Travis Comer
+TestArea,Kanga 2 H,14376244-000,2020-01-09 13:37:30.000,Travis Comer
+TestArea,Allosaurus 3 H B,14402559-000,2020-01-09 13:37:30.000,Travis Comer
+West Carthage,Glaspie 10,10979286-000,2019-09-18 08:48:01.000,Travis Comer
+West Carthage,Hicks 1,12273709-000,2019-09-18 08:48:02.000,Travis Comer
+West Carthage,George Roberts 1 C,12273710-003,2019-09-18 08:48:01.000,Travis Comer
+West Carthage,Reed W M 1,12273923-000,2019-09-18 08:48:03.000,Travis Comer
+West Carthage,Soape 1,12273934-000,2019-09-18 08:48:03.000,Travis Comer
+West Carthage,Brewster J T 1,12273936-000,2019-09-18 08:48:00.000,Travis Comer
+West Carthage,Harrison 1 T,12273937-000,2019-09-18 08:48:02.000,Travis Comer
+West Carthage,Wiltcher 1 T,12273994-001,2019-09-18 08:48:03.000,Travis Comer
+West Carthage,Davis S L Unit 1,12274000-000,2019-09-18 08:48:01.000,Travis Comer
+West Carthage,Allison 2,12274229-000,2019-09-18 08:47:59.000,Travis Comer
+West Carthage,Brewster J T 3,12274362-000,2019-09-18 08:48:00.000,Travis Comer
+West Carthage,Brewster J T 4,12274517-001,2019-09-18 08:48:00.000,Travis Comer
+West Carthage,Allison 4,12274533-000,2019-09-18 08:47:59.000,Travis Comer
+West Carthage,Glaspie 3,12274662-000,2019-09-18 08:48:01.000,Travis Comer
+West Carthage,Wiltcher 2,12274784-003,2019-09-18 08:48:03.000,Travis Comer
+West Carthage,Soape 3,12274815-000,2019-09-18 08:48:03.000,Travis Comer
+West Carthage,Reed W M 2,12274931-000,2019-09-18 08:48:03.000,Travis Comer
+West Carthage,Wilcots 2,12274962-000,2019-09-18 08:48:03.000,Travis Comer
+West Carthage,Soape 4,12275114-000,2019-09-18 08:48:03.000,Travis Comer
+West Carthage,Harrison 4,12275227-000,2019-09-18 08:48:02.000,Travis Comer
+West Carthage,Brewster J T 5,12275229-000,2019-09-18 08:48:00.000,Travis Comer
+West Carthage,Allison 5,12275232-000,2019-09-18 08:47:59.000,Travis Comer
+West Carthage,Reed W M 3,12275233-000,2019-09-18 08:48:03.000,Travis Comer
+West Carthage,Boles 4,12275250-001,2019-09-18 08:47:59.000,Travis Comer
+West Carthage,Wilcots 3,12275257-000,2019-09-18 08:48:03.000,Travis Comer
+West Carthage,Davis S L Unit 3,12275266-000,2019-09-18 08:48:01.000,Travis Comer
+West Carthage,Soape 5,12275408-000,2019-09-18 08:48:03.000,Travis Comer
+West Carthage,Soape 6,12275409-003,2019-09-18 08:48:03.000,Travis Comer
+West Carthage,Hicks 6,12275412-000,2019-09-18 08:48:02.000,Travis Comer
+West Carthage,Hicks 5 T,12275439-000,2019-09-18 08:48:02.000,Travis Comer
+West Carthage,Hicks 5 C,12275439-002,2019-09-18 08:48:02.000,Travis Comer
+West Carthage,Allison 6,12275447-000,2019-09-18 08:47:59.000,Travis Comer
+West Carthage,Allison 7,12275448-000,2019-09-18 08:47:59.000,Travis Comer
+West Carthage,Brown Herman 5 L,12275449-000,2019-09-18 08:48:01.000,Travis Comer
+West Carthage,Brown Herman 5 U,12275449-003,2019-09-18 08:48:01.000,Travis Comer
+West Carthage,Reed W M 4,12275470-000,2019-09-18 08:48:03.000,Travis Comer
+West Carthage,Reed W M 5,12275471-000,2019-09-18 08:48:03.000,Travis Comer
+West Carthage,Brown Herman 4,12275483-000,2019-09-18 08:48:01.000,Travis Comer
+West Carthage,Davis S L Unit 5,12275490-000,2019-09-18 08:48:01.000,Travis Comer
+West Carthage,Boles 5,12275622-003,2019-09-18 08:47:59.000,Travis Comer
+West Carthage,Harrison 5,12275623-000,2019-09-18 08:48:02.000,Travis Comer
+West Carthage,Soape 7,12275643-000,2019-09-18 08:48:03.000,Travis Comer
+West Carthage,Brewster J T 8,12275646-000,2019-09-18 08:48:00.000,Travis Comer
+West Carthage,Harrison 6,12275647-000,2019-09-18 08:48:02.000,Travis Comer
+West Carthage,Hicks 7,12275648-000,2019-09-18 08:48:02.000,Travis Comer
+West Carthage,Davis S L Unit 6,12275671-000,2019-09-18 08:48:01.000,Travis Comer
+West Carthage,Hicks 8,12275681-002,2019-09-18 08:48:02.000,Travis Comer
+West Carthage,Brewster J T 10,12275704-000,2019-09-18 08:48:00.000,Travis Comer
+West Carthage,Brown Herman 6,12275707-000,2019-09-18 08:48:01.000,Travis Comer
+West Carthage,Harrison 7,12275708-000,2019-09-18 08:48:02.000,Travis Comer
+West Carthage,Harrison 8,12275711-001,2019-09-18 08:48:02.000,Travis Comer
+West Carthage,Brown Herman 7,12275712-003,2019-09-18 08:48:01.000,Travis Comer
+West Carthage,Boles 7,12275713-000,2019-09-18 08:47:59.000,Travis Comer
+West Carthage,Reed W M 6,12275749-000,2019-09-18 08:48:03.000,Travis Comer
+West Carthage,West Clayton 1,12275764-000,2019-09-18 08:48:03.000,Travis Comer
+West Carthage,Hicks 9,12275783-000,2019-09-18 08:48:02.000,Travis Comer
+West Carthage,Soape 8,12275788-003,2019-09-18 08:48:03.000,Travis Comer
+West Carthage,Davis S L Unit 7,12275835-000,2019-09-18 08:48:01.000,Travis Comer
+West Carthage,Hicks 10,12276046-001,2019-09-18 08:48:02.000,Travis Comer
+West Carthage,Allison 8,12276047-000,2019-09-18 08:47:59.000,Travis Comer
+West Carthage,Allison 11 U,12276073-001,2019-09-18 08:47:59.000,Travis Comer
+West Carthage,Allison 11 L,12276073-002,2019-09-18 08:47:58.000,Travis Comer
+West Carthage,Allison 9,12276074-000,2019-09-18 08:47:59.000,Travis Comer
+West Carthage,Allison 10,12276075-000,2019-09-18 08:47:58.000,Travis Comer
+West Carthage,Brewster J T 12 L,12276315-000,2019-09-18 08:48:00.000,Travis Comer
+West Carthage,Brewster J T 12 U,12276315-001,2019-09-18 08:48:00.000,Travis Comer
+West Carthage,Brewster J T 11,12276316-000,2019-09-18 08:48:00.000,Travis Comer
+West Carthage,Brewster J T 13,12276403-000,2019-09-18 08:48:00.000,Travis Comer
+West Carthage,Hicks 11,12276416-000,2019-09-18 08:48:02.000,Travis Comer
+West Carthage,Soape 9,12276425-000,2019-09-18 08:48:03.000,Travis Comer
+West Carthage,Brown Herman 8,12276438-000,2019-09-18 08:48:01.000,Travis Comer
+West Carthage,Allison 12,12276458-000,2019-09-18 08:47:59.000,Travis Comer
+West Carthage,Brown Herman 9,12276491-000,2019-09-18 08:48:01.000,Travis Comer
+West Carthage,Hicks 12,12276531-000,2019-09-18 08:48:02.000,Travis Comer
+West Carthage,Brown Herman 10,12276557-000,2019-09-18 08:48:00.000,Travis Comer
+West Carthage,Soape 10,12276574-003,2019-09-18 08:48:03.000,Travis Comer
+West Carthage,Soape 11,12276616-000,2019-09-18 08:48:03.000,Travis Comer
+West Carthage,Glaspie 6,12276631-000,2019-09-18 08:48:01.000,Travis Comer
+West Carthage,Allison 14,12276639-000,2019-09-18 08:47:59.000,Travis Comer
+West Carthage,Wiltcher 6 H,12276754-000,2019-09-18 08:48:03.000,Travis Comer
+West Carthage,Hicks 14,12276830-000,2019-09-18 08:48:02.000,Travis Comer
+West Carthage,Davis S L Unit 8,12276849-000,2019-09-18 08:48:01.000,Travis Comer
+West Carthage,Reed W M 8,12276873-000,2019-09-18 08:48:03.000,Travis Comer
+West Carthage,Brewster J T 14 L,12276881-001,2019-09-18 08:48:00.000,Travis Comer
+West Carthage,Brewster J T 14,12276881-002,2019-09-18 08:48:00.000,Travis Comer
+West Carthage,Hicks 15,12276899-000,2019-09-18 08:48:02.000,Travis Comer
+West Carthage,Soape 12,12287816-000,2019-09-18 08:48:03.000,Travis Comer
+West Carthage,Brewster J T 2,12343196-000,2019-09-18 08:48:00.000,Travis Comer
+West Carthage,Glaspie 4,12346028-000,2019-09-18 08:48:01.000,Travis Comer
+West Carthage,Glaspie 5,12346242-000,2019-09-18 08:48:01.000,Travis Comer
+West Carthage,Hicks 16,12346243-000,2019-09-18 08:48:02.000,Travis Comer
+West Carthage,Davis S L Unit 4,12349477-000,2019-09-18 08:48:01.000,Travis Comer
+West Carthage,Hicks 20,12349771-000,2019-09-18 08:48:02.000,Travis Comer
+West Carthage,Hicks 19,12350297-000,2019-09-18 08:48:02.000,Travis Comer
+West Carthage,Brown Herman 3,12359681-004,2019-09-18 08:48:01.000,Travis Comer
+West Carthage,Brown Herman 2,12360077-000,2019-09-18 08:48:01.000,Travis Comer
+West Carthage,Hicks 17,12361883-000,2019-09-18 08:48:02.000,Travis Comer
+West Carthage,Brown Herman 11,12362193-000,2019-09-18 08:48:00.000,Travis Comer
+West Carthage,Hicks 22,12363198-000,2019-09-18 08:48:02.000,Travis Comer
+West Carthage,Soape 13,12364155-002,2019-09-18 08:48:03.000,Travis Comer
+West Carthage,Hicks 23,12364159-000,2019-09-18 08:48:02.000,Travis Comer
+West Carthage,Allison 15,12364505-000,2019-09-18 08:47:59.000,Travis Comer
+West Carthage,Glaspie 9,12364814-000,2019-09-18 08:48:02.000,Travis Comer
+West Carthage,Brewster J T 6,12365099-001,2019-09-18 08:48:00.000,Travis Comer
+West Carthage,Glaspie 8,12376072-000,2019-09-18 08:48:02.000,Travis Comer
+West Carthage,Reed W M 9,12956475-000,2019-09-18 08:48:03.000,Travis Comer
+West Carthage,Brewster J T 16,12966231-000,2019-09-18 08:48:00.000,Travis Comer
+West Carthage,Soape 14,12973719-000,2019-09-18 08:48:03.000,Travis Comer
+West Carthage,Harrison 9,13069767-000,2019-09-18 08:48:02.000,Travis Comer
+West Carthage,Allison 17,13239996-000,2019-09-18 08:47:59.000,Travis Comer
+West Carthage,Allison 16,13275424-000,2019-09-18 08:47:59.000,Travis Comer
+West Carthage,Wiltcher 8,13368593-000,2019-09-18 08:48:03.000,Travis Comer
+West Carthage,Soape 15 H,13950373-000,2019-09-18 08:48:03.000,Travis Comer
+West Carthage,Soape 16 H,13950375-000,2019-09-18 08:48:03.000,Travis Comer
+West Carthage,Soape 17 H,14003438-000,2019-09-18 08:48:03.000,Travis Comer
+West Carthage,Soape 18 H,14167172-002,2019-09-18 08:48:03.000,Travis Comer
+West Carthage,Soape 19 H,14167173-000,2019-09-18 08:48:03.000,Travis Comer
+West Carthage,Soape 21 H,14241909-000,2019-09-18 08:48:03.000,Travis Comer
+West Carthage,Soape 22 H,14243334-000,2019-09-18 08:48:03.000,Travis Comer
+West Carthage,Brown Herman 13 H,14244252-000,2019-09-18 08:48:00.000,Travis Comer
+West Carthage,Soape 23 H,14259918-000,2019-09-18 08:48:03.000,Travis Comer
+Woodlawn,Davis F 3 H,10971788-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Findley B 5 H,11540695-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,McGee 1,11990525-003,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Findley B 1,11990594-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Findley A 3,11990601-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Highland Lake Club 1,11990623-004,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Slaughter B 1,11990630-000,2019-09-18 08:51:25.000,Travis Comer
+Woodlawn,Britton 1,11990631-000,2019-09-18 08:51:21.000,Travis Comer
+Woodlawn,Davis A 1,11990634-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Pope 2,11992490-002,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Caldwell 1,11992525-001,2019-09-18 08:51:21.000,Travis Comer
+Woodlawn,Jones 3,11992549-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Owens 3,11992581-000,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Slaughter B 2,11992599-003,2019-09-18 08:51:25.000,Travis Comer
+Woodlawn,Hordern A 2,11992631-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Lewis B 2,11992667-000,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Nesbitt Stroud 1,11992719-002,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Woods 2,11992763-000,2019-09-18 08:51:25.000,Travis Comer
+Woodlawn,Findley B 2,11992790-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Chapman B 1,11992824-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Britton 3 L,11992860-000,2019-09-18 08:51:21.000,Travis Comer
+Woodlawn,Britton 3 U,11992860-003,2019-09-18 08:51:21.000,Travis Comer
+Woodlawn,Griffis 2,11992900-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Caldwell 2,11992916-004,2019-09-18 08:51:21.000,Travis Comer
+Woodlawn,Frank Davis 1,11992945-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Davis F 1,11992946-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,McGee B 1,11992956-000,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Jackson 1,11992963-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Peggy Pierce 1,11993022-003,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Jones 4 AM,11993040-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Harris B 1,11993042-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Pope 3,11993062-003,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Lee A 3,11993071-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Pope 4,11993289-003,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Caldwell 4,11993293-004,2019-09-18 08:51:21.000,Travis Comer
+Woodlawn,Britton 4,11993298-000,2019-09-18 08:51:21.000,Travis Comer
+Woodlawn,Lee A 4,11993771-000,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Griffis 3,11993790-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Lewis B 3,11993795-000,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Findley B 3,11993804-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Caldwell 5,11993840-000,2019-09-18 08:51:21.000,Travis Comer
+Woodlawn,Jones 6,11993841-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Jones 7,11993842-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Britton 5,11993844-000,2019-09-18 08:51:21.000,Travis Comer
+Woodlawn,Lewis B 4,11993868-000,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Woods 4,11993876-003,2019-09-18 08:51:25.000,Travis Comer
+Woodlawn,Findley A 5,11993885-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Owens 4,11993886-000,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Pope 5,11993887-000,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Lee A 5,11993889-000,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Hurd 3,11993890-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Woods 5,11993922-000,2019-09-18 08:51:25.000,Travis Comer
+Woodlawn,Lewis B 5,11994055-000,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Pope 6,11994159-000,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Jones 8,11994161-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Woods 6,11994163-000,2019-09-18 08:51:25.000,Travis Comer
+Woodlawn,Caldwell 7 L,12055500-000,2019-09-18 08:51:21.000,Travis Comer
+Woodlawn,Caldwell 7 U,12055500-004,2019-09-18 08:51:21.000,Travis Comer
+Woodlawn,Lee A 8,12055503-000,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Pope 8,12056055-000,2019-09-18 08:51:25.000,Travis Comer
+Woodlawn,Caldwell 6 L,12088323-000,2019-09-18 08:51:21.000,Travis Comer
+Woodlawn,Caldwell 6 U,12088323-003,2019-09-18 08:51:21.000,Travis Comer
+Woodlawn,Caldwell 8 L,12088325-000,2019-09-18 08:51:21.000,Travis Comer
+Woodlawn,Caldwell 8 U,12088325-003,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Griffis 6,12088326-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Britton 8,12088327-000,2019-09-18 08:51:21.000,Travis Comer
+Woodlawn,Griffis 5,12090829-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Lewis B 7,12090831-000,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Caldwell 10 L,12093758-000,2019-09-18 08:51:21.000,Travis Comer
+Woodlawn,Caldwell 10 U,12093758-003,2019-09-18 08:51:21.000,Travis Comer
+Woodlawn,Frank Davis 3,12101486-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,McGee 4,12101584-000,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Chapman B 6,12102638-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Pope 7,12105517-000,2019-09-18 08:51:25.000,Travis Comer
+Woodlawn,Lewis B 6,12105890-000,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Britton 7,12105891-000,2019-09-18 08:51:21.000,Travis Comer
+Woodlawn,Woods 7,12106225-000,2019-09-18 08:51:25.000,Travis Comer
+Woodlawn,Caldwell 9,12106274-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Lee A 6,12106913-000,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Jackson 4,12107032-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Woods 8,12107146-000,2019-09-18 08:51:25.000,Travis Comer
+Woodlawn,Chapman B 7 L,12107246-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Chapman B 7 U,12107246-003,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Lee A 9,12108305-000,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Lee A 10,12108456-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Kingstree Ranch 1,12108457-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Brown Heirs 1,12108826-000,2019-09-18 08:51:21.000,Travis Comer
+Woodlawn,McGee B 3,12108914-005,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Whaley B 1,12109134-000,2019-09-18 08:51:25.000,Travis Comer
+Woodlawn,Kingstree Ranch 3,12109290-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Griffis 4,12109812-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,McGee 6,12109898-004,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Chapman B 8,12110071-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Lee A 7,12110819-000,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Kingstree Ranch 4,12110963-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,McGee 5,12111102-000,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Whaley B 2,12111345-000,2019-09-18 08:51:25.000,Travis Comer
+Woodlawn,Williams 1,12111395-000,2019-09-18 08:51:25.000,Travis Comer
+Woodlawn,McGee B 5,12112124-000,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Kelly Heirs 1,12113465-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Kingstree Ranch B 1,12114099-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,McGee 7,12116118-007,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Oran Bell 1,12116381-000,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,McGee B 6,12116566-000,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Nesbitt Stroud 2,12117887-000,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Kelly Heirs 2,12118659-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Jones 9,12121562-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Kelly Heirs 3,12121703-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Kingstree Ranch D 1,12121769-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Kingstree Ranch E 1,12121954-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Pope 9,12647144-000,2019-09-18 08:51:25.000,Travis Comer
+Woodlawn,McGee 9,12647145-000,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Rogers 3 H,12934927-000,2019-09-18 08:51:25.000,Travis Comer
+Woodlawn,Jackson 7 H,12936575-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Whaley B 3,12939685-000,2019-09-18 08:51:25.000,Travis Comer
+Woodlawn,Peggy Pierce 4 H,12958903-000,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Kingstree Ranch 2 H,12971101-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Kelly Heirs 4,12976774-003,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Matthew Morris 1,13011200-000,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Kelly Heirs 6 H,13039973-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Kelly Heirs 7 H,13050571-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Frank Davis 4,13052942-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Hordern A 3 H,13064146-001,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Kelly Heirs 5 H,13079155-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Alton Oney 1 H,13081916-000,2019-09-18 08:51:21.000,Travis Comer
+Woodlawn,Sanders 5 H,13098945-000,2019-09-18 08:51:25.000,Travis Comer
+Woodlawn,McGee B 8 H,13105417-000,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Findley A 8 H,13149037-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Harris B 4 H,13151450-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Hynson 4 H,13163959-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Frank Davis 5,13169269-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Whaley 3 H,13193894-000,2019-09-18 08:51:25.000,Travis Comer
+Woodlawn,Hynson 3 H,13193897-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Sanders 6 H,13215172-000,2019-09-18 08:51:25.000,Travis Comer
+Woodlawn,Brown Heirs 2 H,13222251-000,2019-09-18 08:51:21.000,Travis Comer
+Woodlawn,Peggy Pierce 2,13234929-000,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Davis F 2 H,13235834-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Britton 9 H,13261962-000,2019-09-18 08:51:21.000,Travis Comer
+Woodlawn,Chapman B 9 H,13274041-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Brown Heirs 3 H,13290618-000,2019-09-18 08:51:21.000,Travis Comer
+Woodlawn,Timbers 1 H,13299855-000,2019-09-18 08:51:25.000,Travis Comer
+Woodlawn,Whaley 4 H,13300053-000,2019-09-18 08:51:25.000,Travis Comer
+Woodlawn,Highland Lake Club 4,13331095-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Owens 5,13331096-000,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Kingstree Ranch D 3 H,13342777-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Timbers 2 H,13351807-000,2019-09-18 08:51:25.000,Travis Comer
+Woodlawn,Nesbitt Stroud 3 H,13353675-000,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Smith 1 H,13359214-000,2019-09-18 08:51:25.000,Travis Comer
+Woodlawn,Brown Heirs 4 H,13401120-000,2019-09-18 08:51:21.000,Travis Comer
+Woodlawn,Hordern A 4 H,13410433-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Findley A 7 H,13410724-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Roads End 1 H,13434039-000,2019-09-18 08:51:25.000,Travis Comer
+Woodlawn,McGee B 7 H,13442666-000,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Highland Lake Club 5 H,13447853-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Whipkey 1 H,13458965-000,2019-09-18 08:51:25.000,Travis Comer
+Woodlawn,Peggy Pierce 3 H,13463766-001,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Davis A 4,13474648-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Cypress Bayou 1 H,13577262-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Hurd 6,13579980-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Whaley B 5 H,13581250-000,2019-09-18 08:51:25.000,Travis Comer
+Woodlawn,Hurd 5,13586393-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Jackson 5,13635923-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Slaughter B 4 H,13639931-000,2019-09-18 08:51:25.000,Travis Comer
+Woodlawn,Kingstree Ranch E 3 H,13700261-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Rogers 2 H,13721499-000,2019-09-18 08:51:25.000,Travis Comer
+Woodlawn,Slaughter B 5 H,13721683-000,2019-09-18 08:51:25.000,Travis Comer
+Woodlawn,Davis A 5 H,13749388-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,St. James 1 H,13755296-000,2019-09-18 08:51:25.000,Travis Comer
+Woodlawn,Davis F 4 H,13769970-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Harris B 3 H,13836705-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Frank Davis 6,13845844-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Kingstree Ranch E 2 H,13853505-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Findley B 4 H,13861880-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Kingstree Ranch D 2 H,13870538-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Findley A 6 H,13879778-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Owens 6 H,13915075-000,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Hurd 7,13916878-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Griffis 7 H,13938822-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Whaley B 4 H,13948035-000,2019-09-18 08:51:25.000,Travis Comer
+Woodlawn,Davis A 6,14047872-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Frank Davis 7,14052795-000,2019-09-18 08:51:22.000,Travis Comer
+Woodlawn,Lewis B 8,14058807-000,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Jackson 6,14091392-003,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Hurd 4,14195597-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Hurd 8,14209542-000,2019-09-18 08:51:23.000,Travis Comer
+Woodlawn,Owens 7,14209548-000,2019-09-18 08:51:24.000,Travis Comer
+Woodlawn,Griffis 8,14286206-003,2019-09-18 08:51:22.000,Travis Comer
